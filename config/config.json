@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "AKbind@123",
+    "password": "",
     "database": "image-compressor",
     "host": "localhost",
     "dialect": "mysql"
